@@ -1,0 +1,5 @@
+{
+  "name": "3D Spine-Leaf Visualizer",
+  "description": "A high-performance 3D visualization of a massive Spine-Leaf network architecture (64 Spines, 128 Leafs) with interactive full-mesh connectivity inspection.",
+  "requestFramePermissions": []
+}
